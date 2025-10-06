@@ -20,5 +20,5 @@ This project predicts the **Research Octane Number (RON)** of fuel blends based 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/fuel-blend-prediction.git
+   git clone https://github.com/ESAIPREETHAM/Fuel-blend-Prediction-model.git
    cd fuel-blend-prediction
